@@ -132,5 +132,7 @@ you've just cloned!!
 * [`WhatsApp`](wa.me/6282334297175)
 ### Donate
 * [`Saweria`](https://saweria.co/ampibibot)
-* [`Dana : +62895710073737`]
-* [`Pulsa : +6282334297175`]
+* [`OVO : +62 813-3378-2061`]
+* [`Telkom : +62 813-3378-2061`]
+* [`Dana : +62 813-3378-2061`]
+* [`Gopay : +62 813-3378-2061`]
