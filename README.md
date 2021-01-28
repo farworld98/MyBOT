@@ -7,7 +7,9 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/affisjunianto/botwasapv4
+> pkg install git -y
+> git clone https://github.com/Tersakiti404-cyber/Tersakiti_404
+
 ```
 
 ## Install the dependencies:
@@ -15,7 +17,7 @@ Before running the below command, make sure you're in the project directory that
 you've just cloned!!
 
 ```bash
-> cd botwasapv4
+> cd Tersakiti_404
 > bash install.sh
 ```
 
@@ -129,7 +131,7 @@ you've just cloned!!
 
 
 ## whatsapp number
-* [`WhatsApp`](wa.me/6282334297175)
+* [`WhatsApp`](wa.me/+62813-3378-2061)
 ### Donate
 * [`Saweria`](https://saweria.co/ampibibot)
 * [`OVO : +62 813-3378-2061`]
