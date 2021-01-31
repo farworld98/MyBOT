@@ -41,7 +41,7 @@ prefix = '.'
 blocked = []   
 limitawal = 30
 memberlimit = 2
-cr = '*BOT INI SUDAH TERVERIFIKASI*'
+cr = '*𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃 WhatsApp*'
 
 /******** OWNER NUMBER**********/
 const ownerNumber = ["6281333782061@s.whatsapp.net","6282250221294@s.whatsapp.net"] 
